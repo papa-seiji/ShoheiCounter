@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>shoihei_counter</artifactId>
+	<artifactId>shohei_counter</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>shoihei_counter</name>
 	<description>Demo project for Spring Boot</description>
@@ -56,7 +56,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<version>3.3.5</version>
 				<configuration>
-					<mainClass>com.example.shoihei_counter.ShoiheiCounterApplication</mainClass>
+					<mainClass>com.example.shohei_counter.ShoheiCounterApplication</mainClass>
 				</configuration>
 			</plugin>
 		</plugins>
